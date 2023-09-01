@@ -1,0 +1,4 @@
+fastapi_venv
+.idea
+*.xml
+*.pyc
